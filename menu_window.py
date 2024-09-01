@@ -5,7 +5,7 @@ menu_window = QWidget()
 menu_window.resize(400, 300)
 menu_window.setWindowTitle("Memory card")
 menu_window.move(700, 300)
-
+#питання в другому вікні
 question_lbl = QLabel("Ввеліть правильну відповідь")
 right_ans_lbl = QLabel ("Введіть правильну відповідь")
 wrong_1ans_lbl = QLabel ("Введіть неправильну  відповідь")
